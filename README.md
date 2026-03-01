@@ -16,8 +16,7 @@ Control your ship, shoot aliens, and try to get the highest score! 🏆
 2. Each alien destroyed gives you **100 points** ✨  
 3. If an alien reaches your ship, the game is **over** ☠️  
 4. Bullets disappear when they hit an alien or leave the screen 💨
-5. 🚀 Refresh the browser to play again after Game Over
-
+5. 🕹️ How to restart: Refresh the browser page to play again after Game Over.
 ---
 
 ## Download & Play 💾
