@@ -4,7 +4,8 @@
 A classic Space Invaders clone built with **JavaScript, CSS, and HTML**.  
 Control your ship, shoot aliens, and try to get the highest score! 🏆
 
----
+<img width="638" height="643" alt="image" src="https://github.com/user-attachments/assets/ecc2f4d6-4361-4691-9fe4-c051769e5e29" />
+
 
 ## How to Play 🎮
 - **Move Left:** ⬅️ Arrow Left  
