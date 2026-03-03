@@ -28,5 +28,6 @@ Control your ship, shoot aliens, and try to get the highest score! 🏆
 5. Open the `index.html` file in your **web browser** 🌐 to play.  
 6. Enjoy shooting aliens! 👾🚀  
 
-
+Click here to play!
+https://rizzlergod102.github.io/SPACE-INVADERS-GAME/Space%20Invaders/index.html
 
